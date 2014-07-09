@@ -4,6 +4,7 @@ target/
 out/
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+.iml
 
 # Package Files #
 *.jar
